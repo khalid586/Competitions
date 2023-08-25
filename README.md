@@ -5,6 +5,8 @@
 
 
 ## Things I wish I knew in 1st year
+
+
 - Competitions
   - Problem solving
     - Onsite/Offline Contest (ICPC,IUPC)
@@ -21,9 +23,21 @@
      - Robo Soccer
      - Rover Challenge
    - Others
-     - Debate
+     - **Debate***
+       - Intra
+       - Inter
      - Idea & Poster presentation
+       - Intra
+       - Inter
      - Business Competition
+       - Intra
+       - Inter  
+      <details><summary>Intra Vs Inter</summary>
+     Intra : Internal <br>
+     Inter : External
+     </details>
+
+- WHY Debate?
        
 - Open Source Contribution
   
@@ -31,6 +45,11 @@
   - JS / Python
   - OOP
   - SQL
+- Opportunities
+  - Permanent Campus
+
+- Higher Study
+- CGPA
  
 <br>
   <details>
@@ -42,11 +61,5 @@
   - Time Management 
   </details>
 
-   - Higher Study
-   - CGPA
-    
 
-  - Opportunities
-   - Permanent Campus
-
-  - Some Faults in us
+Some Faults in us
