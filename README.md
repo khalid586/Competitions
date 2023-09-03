@@ -1,3 +1,5 @@
+<img align = "center" src = "https://cdn.dribbble.com/users/1369921/screenshots/3699553/media/632fe87d30ef9413a3512dd317727b8b.gif" width = "50px"> You will find the video [here](https://youtu.be/I_G102qz_pk)
+
 # Khalid Abdullah
 #### Final Year Undergrad student
 #### 2x ICPC Asia Dhaka Regionalist
