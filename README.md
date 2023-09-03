@@ -12,8 +12,12 @@
 
 - Competitions
   - Problem solving
-    - Onsite/Offline Contest (ICPC,IUPC)
-    - Online Contest (Codeforces,Codechef,Atcoder)
+    - Onsite/Offline Contest(ICPC,IUPC) - Team Contests
+    - Online Contest - Individual Contest
+      - [Codeforces](https://codeforces.com)
+      - [Codechef](https://codechef.com)
+      - [Atcoder](https://atcoder.jp)
+
   - Hackathon
     - Online Hackathon(Major League Hacking, Devpost etc)
     - Onsite Hackathon(Inter University Hackathons)
