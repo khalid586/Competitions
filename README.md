@@ -21,7 +21,9 @@
       - [Atcoder](https://atcoder.jp)
 
   - Hackathon
-    - Online Hackathon(Major League Hacking, Devpost etc)
+    - Online Hackathon
+      - [Major League Hacking](https://mlh.io/)
+      - [Devpost](https://devpost.com/)
     - Onsite Hackathon(Inter University Hackathons)
 
    - Capture The Flag
