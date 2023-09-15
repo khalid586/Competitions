@@ -1,12 +1,14 @@
-<img align = "center" src = "https://cdn.dribbble.com/users/1369921/screenshots/3699553/media/632fe87d30ef9413a3512dd317727b8b.gif" width = "50px"> You will find the video [here](https://youtu.be/I_G102qz_pk)
+![](assets/banner.png)
 
-# Khalid Abdullah
+## Khalid Abdullah
 - Final Year Undergrad student
-- ICPC Asia Dhaka Regionalist
-- Problemsetter
-  - [IUPC Ep1](https://toph.co/arena?practice=64765afcd47a320767c000cf#!/p/6473fe50d47a320767bfcdb8)
+- **ICPC Asia Dhaka Regionalist**
+- **Problemsetter**
+  - [**IUPC Ep1**](https://toph.co/arena?practice=64765afcd47a320767c000cf#!/p/6473fe50d47a320767bfcdb8)
     - Save money
     - Evenly Divisible
+
+<img align = "center" src = "https://cdn.dribbble.com/users/1369921/screenshots/3699553/media/632fe87d30ef9413a3512dd317727b8b.gif" width = "50px"> **You will find the video** [**here**](https://youtu.be/I_G102qz_pk)
 
 
 ## Things I wish I knew in 1st year
