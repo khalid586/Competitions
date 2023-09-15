@@ -11,31 +11,31 @@
 <img align = "center" src = "https://cdn.dribbble.com/users/1369921/screenshots/3699553/media/632fe87d30ef9413a3512dd317727b8b.gif" width = "50px"> **You will find the video** [**here**](https://youtu.be/I_G102qz_pk)
 
 
-## Things I wish I knew in 1st year
+## Highlights
 
 
-- Competitions
-  - Problem solving
+- **Competitions**
+  - **Problem solving**
     - Onsite/Offline Contest(ICPC,IUPC) - Team Contests
     - Online Contest - Individual Contest
       - [Codeforces](https://codeforces.com)
       - [Codechef](https://codechef.com)
       - [Atcoder](https://atcoder.jp)
 
-  - Hackathon
+  - **Hackathon**
     - Online Hackathon
       - [Major League Hacking](https://mlh.io/)
       - [Devpost](https://devpost.com/)
     - Onsite Hackathon(Inter University Hackathons)
 
-   - Capture The Flag
+   - **Capture The Flag**
      - Online
      - Offline/Onsite
-   - Robotics
+   - **Robotics**
      - LFR (Line Follower Robot)
      - Robo Soccer
      - Rover Challenge
-   - Others
+   - **Others**
      - **Debate***
        - Intra
        - Inter
